@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arkadyuti Dhara</h1>
-<h3 align="center">A passionate frontend data scientist from India</h3>
+<h3 align="center">A passionate  data scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/72535/screenshots/2630779/data_visualization_by_jardson_almeida.gif">
 
